@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWS_Config_Tool", "EWS_Config_Tool\EWS_Config_Tool.csproj", "{85F0B919-582A-4432-8333-A041C8611F45}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RPR_config_tool_V1.10", "RPR_config_tool_V1.10\RPR_config_tool_V1.10.vdproj", "{B761EBD3-1820-4CFB-938A-30E4D8E50D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85F0B919-582A-4432-8333-A041C8611F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F0B919-582A-4432-8333-A041C8611F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F0B919-582A-4432-8333-A041C8611F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F0B919-582A-4432-8333-A041C8611F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F0B919-582A-4432-8333-A041C8611F45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B761EBD3-1820-4CFB-938A-30E4D8E50D10}.Debug|Any CPU.ActiveCfg = Debug
+		{B761EBD3-1820-4CFB-938A-30E4D8E50D10}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA7A1C1-A644-442C-B74D-26550F132473}
+	EndGlobalSection
+EndGlobal
