@@ -29,14 +29,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EWS_Config_Tool.exe" size="1173504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EWS_Config_Tool.exe" size="1174016">
       <assemblyIdentity name="EWS_Config_Tool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OAFRZNrwJTp4w3P76sJLpunE2pJWqnbAb/asQvmadLY=</dsig:DigestValue>
+        <dsig:DigestValue>bgIaZ2Bf9ww7s4jq+q92QmIIQdzqSYEASEn3dX7HZEs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
