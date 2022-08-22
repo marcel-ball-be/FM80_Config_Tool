@@ -259,6 +259,10 @@ Notes:
                         - Fixed error with initial frequency selection as reported by Ralph
 
     2019-06-27  v1.09   - Accidentally left save stations only and save button instructions only in the drop down menu
+
+    ????-??-??  v1.10   - Proof of concept version.  No details.
+
+    2022-08-22  v1.11   - Added location "Extended" that enables extended stations down to 82.0MHz
 -----------------------------------------------------------------------------------------*/
 
 

@@ -88,7 +88,7 @@ namespace EWS_Config_Tool
             EWS_Channels.CHANNELS.ENHANCED = new Enhanced_Record { ACTIVE = "NO", REPEAT = 1 };
 
             // create the frequency list
-            for (int f = 87500; f <= 108000; f = f + 100)
+            for (int f = 82000; f <= 108000; f = f + 100)
             {
                 Frequencies_Pool.Add(new Frequency_Record { FREQUENCY = f, LANGUAGE = "", LEVEL = 100, POPULAR = "NO", AUTO_LEVEL = "YES", TA = 1 });
             }

@@ -156,6 +156,7 @@ Location:
 	{"Loc": "Ecuador","Channel_Spacing": 100, "Default_Language": "Spanish", "Start_Freq" : 87500, "End_Frequency": 108000},
 	{"Loc": "Egypt","Channel_Spacing": 100, "Default_Language": "Arabic", "Start_Freq" : 87500, "End_Frequency": 108000},
 	{"Loc": "El Salvador","Channel_Spacing": 100, "Default_Language": "Spanish", "Start_Freq" : 87500, "End_Frequency": 108000},
+	{"Loc": "Extended","Channel_Spacing": 100, "Default_Language": "Undetermined", "Start_Freq" : 82000, "End_Frequency": 108000},
 	{"Loc": "Equatorial Guinea","Channel_Spacing": 100, "Default_Language": "Spanish", "Start_Freq" : 87500, "End_Frequency": 108000},
 	{"Loc": "Eritrea","Channel_Spacing": 100, "Default_Language": "Afar", "Start_Freq" : 87500, "End_Frequency": 108000},
 	{"Loc": "Estonia","Channel_Spacing": 100, "Default_Language": "Estonian", "Start_Freq" : 87500, "End_Frequency": 108000},
